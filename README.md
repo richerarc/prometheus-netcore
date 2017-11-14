@@ -5,7 +5,7 @@ Current version 1.3.8
 
 Support netstandard2.0 and uses the most recent kestrel feature as defined in msdn documentation
 
-This project uses [prometheus-net](https://github.com/andrasm/prometheus-net) as base, and work the same way. Usage will be updated as changes are made.
+This project uses [prometheus-net](https://github.com/andrasm/prometheus-net) as base, and works the same way. Usage will be updated as changes are made.
 
 It's tested on Windows/macOS/Linux with dotnet core 2.0
 
